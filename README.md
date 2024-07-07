@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is Syed Shaban and I'm currently a sophomore at UIC pursuing my Computer Science degree. I recently completed an internship working with the development of a website for a professor at the university that I attend, University of Illinois Chicago, and I will be completing a software engineering intern this summer!
+My name is Syed Shaban and I'm entering my senior year at UIC pursuing my Computer Science degree. I am currently completing my second internship at CME Group, working as a software engineering intern!
 
-- 🌱 I’m currently learning JavaFX and Assembly.
+- 🌱 I’m currently learning about AI and full-stack web development.
 - 😄 Pronouns: he/him
 - 💬 Ask me about some of my projects!
   
