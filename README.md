@@ -12,6 +12,6 @@ My name is Syed Shaban and I'm entering my senior year at UIC pursuing my Comput
   - LinkedIn: https://www.linkedin.com/in/syed-shaban/
   
 - ⚡ Fun facts:
-  - Interned last summer at @CMEGroup
+  - SWE Intern at @CMEGroup
   - Deadlift: 515lbs
   - Very interested in Web Development and AI.
